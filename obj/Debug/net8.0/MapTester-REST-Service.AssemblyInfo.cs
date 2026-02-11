@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MapTester-REST-Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+674ed4c2a3e5de4ea1bc1cc359ba368638bd11c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MapTester-REST-Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MapTester-REST-Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
