@@ -1,0 +1,6 @@
+@MapTester_HostAddress = http://localhost:5152
+
+GET {{MapTester_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
